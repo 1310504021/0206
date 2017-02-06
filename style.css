@@ -1,0 +1,17 @@
+    .content{
+        background-color: lemonchiffon;
+        color: steelblue;
+        width:800px;
+        margin:5px auto;
+        }
+    h1{color: black;
+        font-family: "標楷體";
+        border-bottom: 10px solid firebrick;
+        text-align:center;
+    }
+    .movie-img{
+        border:1px soild silver;
+        padding:10pt;
+        margin:10pt;
+        float:left;
+    }
